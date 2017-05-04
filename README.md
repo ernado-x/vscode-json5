@@ -1,5 +1,7 @@
 # vscode-json5
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mrmlnc/vscode-json5.svg)](https://greenkeeper.io/)
+
 > This extension adds syntax highlighting of JSON5 files in VS Code.
 
 ## Colorization
