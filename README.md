@@ -1,25 +1,25 @@
-# vscode-json5
+# vscode-jstp
 
-> This extension adds syntax highlighting of JSON5 files in VS Code.
-
+> This extension adds syntax highlighting of [JSTP](https://github.com/metarhia/JSTP) files in [VS Code](https://code.visualstudio.com). 
+ 
 ## Colorization
 
-![JSON5 syntax in VS Code](https://cloud.githubusercontent.com/assets/7034281/19013821/e8150e9a-87e4-11e6-9127-e9ec7c989c86.png)
+![JSTP syntax in VS Code](https://cloud.githubusercontent.com/assets/7034281/19013821/e8150e9a-87e4-11e6-9127-e9ec7c989c86.png)
 
-(imported from [Atom package](https://github.com/wiredmax/language-json5))
+(imported from [VS Code json5](https://github.com/mrmlnc/vscode-json5))
 
 ## Usage
 
 ### Install the extension in VS Code
 
   * Open the command palette using <kbd>Ctrl+P</kbd>.
-  * Type `ext install json5` in the command palette.
+  * Type `ext install JSTP` in the command palette.
 
-### Select **JSON5** as a language
+### Select **JSTP** as a language
 
   * On the bottom-right corner, click on the select language mode button, if you have created a new file it should display Plain Text.
-  * Select **JSON5** in the list of languages.
-  * Alternatively, saving the file with a `.json5` extension, will allow VS Code to understand that it is a JSON5 file, and automatically select the language correctly.
+  * Select **JSTP** in the list of languages.
+  * Alternatively, saving the file with a `.JSTP` extension, will allow VS Code to understand that it is a JSTP file, and automatically select the language correctly.
 
 ### Supported features
 
@@ -27,7 +27,10 @@
 
 ### Supported filetypes
 
-  * `.json5`
+  * `.jstp`
+  * `.jsrm`
+  * `.jsrd`
+  * `.jsrs`
 
 ## Contributing
 
@@ -49,7 +52,7 @@
 
 ## Changelog
 
-See the [Releases section of our GitHub project](https://github.com/mrmlnc/vscode-json5/releases) for changelogs for each release version.
+See the [Releases section of our GitHub project](https://github.com/ernado-x/vscode-jstp/releases) for changelogs for each release version.
 
 ## License
 
