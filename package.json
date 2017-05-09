@@ -2,37 +2,50 @@
     "name": "vscode-jstp",
     "displayName": "jstp syntax",
     "description": "Adds syntax highlighting of jstp files",
-    "version": "1.0.0",
-    "publisher": "mrmlnc",
+    "version": "0.2.0",
+    "publisher": "ernado-x",
     "license": "MIT",
     "engines": {
-      "vscode": "^1.3.0"
+        "vscode": "^1.3.0"
     },
-  "icon": "icon.png",
-  "homepage": "https://github.com/ernado-x/vscode-jstp/blob/master/README.md",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ernado-x/vscode-jstp"
-  },
-  "keywords": [
-    "jstp",
-    "syntax",
-    "highlight"
-  ],
-  "categories": [
-    "Languages"
-  ],
-  "contributes": {
-    "languages": [{
-      "id": "jstp",
-      "aliases": ["JPT{", "jstp"],
-      "extensions": [".jstp", ".jsrm", ".jsrd", ".jsrs"],
-      "configuration": "./jstp.configuration.json"
-    }],
-    "grammars": [{
-      "language": "jstp",
-      "scopeName": "source.jstp",
-      "path": "./syntaxes/jstp.json"
-    }]
-  }
+    "icon": "icon.png",
+    "homepage": "https://github.com/ernado-x/vscode-jstp/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ernado-x/vscode-jstp"
+    },
+    "keywords": [
+        "jstp",
+        "syntax",
+        "highlight",
+        "metarhia"
+    ],
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "jstp",
+                "aliases": [
+                    "JPT",
+                    "jstp"
+                ],
+                "extensions": [
+                    ".jstp",
+                    ".jsrm",
+                    ".jsrd",
+                    ".jsrs"
+                ],
+                "configuration": "./jstp.configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "jstp",
+                "scopeName": "source.jstp",
+                "path": "./syntaxes/jstp.json"
+            }
+        ]
+    }
 }
