@@ -4,16 +4,14 @@
  
 ## Colorization
 
-![JSTP syntax in VS Code](https://cloud.githubusercontent.com/assets/7034281/19013821/e8150e9a-87e4-11e6-9127-e9ec7c989c86.png)
-
-(imported from [VS Code json5](https://github.com/mrmlnc/vscode-json5))
+![JSTP syntax in VS Code](hhttps://habrastorage.org/web/d47/3f5/283/d473f528330149b0974d46088dd683f4.png)
 
 ## Usage
 
 ### Install the extension in VS Code
 
   * Open the command palette using <kbd>Ctrl+P</kbd>.
-  * Type `ext install JSTP` in the command palette.
+  * Type `ext install vscode-jstp` in the command palette.
 
 ### Select **JSTP** as a language
 
