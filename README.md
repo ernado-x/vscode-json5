@@ -4,7 +4,7 @@
  
 ## Colorization
 
-![JSTP syntax in VS Code](hhttps://habrastorage.org/web/d47/3f5/283/d473f528330149b0974d46088dd683f4.png)
+![JSTP syntax in VS Code](https://habrastorage.org/web/d47/3f5/283/d473f528330149b0974d46088dd683f4.png)
 
 ## Usage
 
