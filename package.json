@@ -2,11 +2,15 @@
     "name": "vscode-jstp",
     "displayName": "jstp syntax",
     "description": "Adds syntax highlighting of jstp files",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "ernado-x",
     "license": "MIT",
     "engines": {
         "vscode": "^1.3.0"
+    },
+    "galleryBanner": {
+        "color": "#1E1E1E",
+        "theme": "dark"
     },
     "icon": "icon.png",
     "homepage": "https://github.com/ernado-x/vscode-jstp/blob/master/README.md",
