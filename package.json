@@ -2,7 +2,7 @@
     "name": "vscode-jstp",
     "displayName": "JSTP Syntax",
     "description": "Provides syntax support for JSTP in .jstp, .jsrm, .jsrd and .jsrs files.",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "publisher": "ernado-x",
     "license": "MIT",
     "engines": {
@@ -32,7 +32,6 @@
             {
                 "id": "jstp",
                 "aliases": [
-                    "JPT",
                     "jstp"
                 ],
                 "extensions": [
