@@ -1,8 +1,8 @@
 {
     "name": "vscode-jstp",
-    "displayName": "jstp syntax",
-    "description": "Adds syntax highlighting of jstp files",
-    "version": "0.4.0",
+    "displayName": "JSTP Syntax",
+    "description": "Provides syntax support for JSTP in .jstp, .jsrm, .jsrd and .jsrs files.",
+    "version": "0.5.0",
     "publisher": "ernado-x",
     "license": "MIT",
     "engines": {

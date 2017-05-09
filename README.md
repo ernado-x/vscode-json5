@@ -1,10 +1,11 @@
-# vscode-jstp
+# JSTP Syntax support for Visual Studio Code 
 
-> This extension adds syntax highlighting of [JSTP](https://github.com/metarhia/JSTP) files in [VS Code](https://code.visualstudio.com). 
+Provides syntax support for [JSTP](https://github.com/metarhia/JSTP) in .jstp, .jsrm, .jsrd and .jsrs files.
+
  
 ## Colorization
 
-![JSTP syntax in VS Code](https://habrastorage.org/web/d47/3f5/283/d473f528330149b0974d46088dd683f4.png)
+![JSTP syntax in VS Code](https://habrastorage.org/web/4d9/bf7/2f2/4d9bf72f2ffb45da929bbcc0420554d0.png)
 
 ## Usage
 
@@ -17,7 +18,7 @@
 
   * On the bottom-right corner, click on the select language mode button, if you have created a new file it should display Plain Text.
   * Select **JSTP** in the list of languages.
-  * Alternatively, saving the file with a `.JSTP` extension, will allow VS Code to understand that it is a JSTP file, and automatically select the language correctly.
+  * Alternatively, saving the file with a `.jstp`, `.jsrm`, `.jsrd` or `.jsrs` extension, will allow VS Code to understand that it is a JSTP file, and automatically select the language correctly.
 
 ### Supported features
 
@@ -47,10 +48,6 @@
     * Open folder contains this extension in VS Code.
     * Press <kbd>F5</kbd>.
     * Make your changes and send a PR.
-
-## Changelog
-
-See the [Releases section of our GitHub project](https://github.com/ernado-x/vscode-jstp/releases) for changelogs for each release version.
 
 ## License
 
