@@ -1,5 +1,7 @@
 # JSTP Syntax support for Visual Studio Code 
 
+![Version](http://vsmarketplacebadge.apphb.com/version/ernado-x.vscode-jstp.svg)
+
 Provides syntax support for [JSTP](https://github.com/metarhia/JSTP) in .jstp, .jsrm, .jsrd and .jsrs files.
 
  
