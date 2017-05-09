@@ -1,0 +1,8 @@
+{
+  country: 'string',
+  city: 'string',
+  zip: 'number(5)',
+  street: 'string',
+  building: 'string',
+  room: '[number]'
+}
